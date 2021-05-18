@@ -1,6 +1,6 @@
-# -Homomorphic-EC-elgaml
+# -Homomorphic-EC-elgamal
 
-加法同态的EC-elgaml加解密函数是ciphering.go 里的Encrypt与Decrypt
+加法同态的EC-elgamal加解密函数是ciphering.go 里的Encrypt与Decrypt
 
 
 ciphering.go里的init.go函数用于生成BSGS算法的预计算表，本来已经生成好了26位的预计算表,但碍于文件过大没有上传.代码较为简单,可阅读代码自行本地生成.
